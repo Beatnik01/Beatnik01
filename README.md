@@ -1,4 +1,4 @@
-### ✨  I'll be king of Js ✨ 
+### ✨  I'll be king of Javascript ✨ 
 
 <!--
 **Beatnik01/Beatnik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
