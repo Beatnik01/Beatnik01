@@ -1,4 +1,4 @@
-### ✨  I'll be king of Javascript ✨ 
+### ✨ 
 <a href="https://programmers.co.kr/job_profiles/public_setting">Programmers</a>
 
 <!--
