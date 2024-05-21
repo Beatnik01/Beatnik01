@@ -1,5 +1,4 @@
-### ✨ 
-<a href="https://programmers.co.kr/job_profiles/public_setting">Programmers</a>
+### 🥷
 
 <!--
 **Beatnik01/Beatnik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
